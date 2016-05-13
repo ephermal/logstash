@@ -1,0 +1,3 @@
+
+#Gets the current syslog settings
+esxcli system syslog config get
